@@ -6,5 +6,5 @@ Basics of Machine Learning with TensorFlow: https://www.freecodecamp.org/learn/m
 ## Stanford CS231n: Convolutional Neural Networks for Visual Recognition
 https://youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&si=lLEoWK_R81hcPlzU
 
-##ConvNetJS: Deep Learning in your browser by Andrej Karpathy
+## ConvNetJS: Deep Learning in your browser by Andrej Karpathy
 https://cs.stanford.edu/people/karpathy/convnetjs/index.html
